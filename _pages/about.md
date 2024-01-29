@@ -16,7 +16,7 @@ I'm a **PhD** student at the Institute of Information Engineering, Chinese Acade
   
   Hubei University
   
-* *2022.8-now*, Beijing, China
+* *2022.8-Now*, Beijing, China
   
   A **PhD** student in Cyberspace Security
   
