@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cheng Hu'"
+title: "Cheng Hu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
