@@ -10,19 +10,13 @@ redirect_from:
 I'm a **PhD** student at the Institute of Information Engineering, Chinese Academy of Sciences
 # Education
 
-*2018.9-2022.6* , Wuhan, China
-
-**B.Eng** in Software Engineering
-
-Hubei University
-
-*2022.8-now*, Beijing, China
-
-A **PhD** student in Cyberspace Security
-
-Institute of Information Engineering, Chinese Academy of Sciences
-
-School of Cyberspace Security, University of Chinese Academy of Sciences
+* *2018.9-2022.6* , Wuhan, China
+  **B.Eng** in Software Engineering
+  Hubei University
+* *2022.8-now*, Beijing, China
+  A **PhD** student in Cyberspace Security
+  Institute of Information Engineering, Chinese Academy of Sciences
+  School of Cyberspace Security, University of Chinese Academy of Sciences
 
 # Publications
 
