@@ -28,12 +28,11 @@ I'm a **PhD** student at the Institute of Information Engineering, Chinese Acade
 
 ## Conference
 
-Hu C, Yuan F, Liu Y, et al. Malicious Domain Detection with Heterogeneous Graph Propagation Network[C]//International Conference on Wireless Algorithms, Systems, and Applications. Cham: Springer Nature Switzerland, 2022: 545-556.
+**Hu C**, Yuan F, Liu Y, et al. Malicious Domain Detection with Heterogeneous Graph Propagation Network[C]//International Conference on Wireless Algorithms, Systems, and Applications. Cham: Springer Nature Switzerland, 2022: 545-556.
 
-Xiao K, Bai Y, Wang Z. Extracting prerequisite relations among concepts from the course descriptions[J]. International Journal of Software Engineering and Knowledge Engineering, 2022, 32(04): 503-523.
-
-## Journal
+**Hu C**, Xiao K, Wang Z, et al. Extracting prerequisite relations among wikipedia concepts using the clickstream data[C]//International Conference on Knowledge Science, Engineering and Management. Cham: Springer International Publishing, 2021: 13-26.
 
 ## Patent
+
 
 # Honnor
