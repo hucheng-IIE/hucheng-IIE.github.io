@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Phd student in Institute of Information Engineering, Chinese Academy of Sciences.
+
 Education
 ======
 2018.9-2022.6 Hubei University. Software Engineering
