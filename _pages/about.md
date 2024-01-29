@@ -33,6 +33,6 @@ I'm a **PhD** student at the Institute of Information Engineering, Chinese Acade
 **Hu C**, Xiao K, Wang Z, et al. Extracting prerequisite relations among wikipedia concepts using the clickstream data[C]//International Conference on Knowledge Science, Engineering and Management. Cham: Springer International Publishing, 2021: 13-26.
 
 ## Patent
-
+Wang Zhengbang, **Hu Cheng**, Zhang Yang et al. Intelligent device for bottle and can classification and recycling [P]. Hubei Province: CN215324796U, 2021-12-28
 
 # Honnor
