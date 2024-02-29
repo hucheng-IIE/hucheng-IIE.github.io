@@ -37,10 +37,17 @@ Now, I'm a **PhD** student at the Institute of Information Engineering, Chinese 
 Wang Zhengbang, **Hu Cheng**, Zhang Yang et al. Intelligent device for bottle and can classification and recycling [P]. Hubei Province: CN215324796U, 2021-12-28
 
 # Honnor
+
 2023 UCAS excellent student leader
+
+2023 **Second Prize** in Baidu Track Eastern Division of Smart City Multi-Visual Multi-task Recognition Competition Based on Wenxin CV Large Model
 
 2022 Hubei University Outstanding Graduates
 
 2022 Hubei University Excellent Graduation Thesis
 
 2021 **National Second Prize** in China Software Cup College Student Software Design Competition
+
+# Experience
+
+2022-2023 Participate in the "Fang Class" seminar hall report
