@@ -37,6 +37,9 @@ Wang Zhengbang, **Hu Cheng**, Zhang Yang et al. Intelligent device for bottle an
 
 # Honnor
 2023 UCAS excellent student leader
+
 2022 Hubei University Outstanding Graduates
+
 2022 Hubei University Excellent Graduation Thesis
+
 2021 **National Second Prize** in China Software Cup College Student Software Design Competition
