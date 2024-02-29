@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I graduated with excellent results from my undergraduate degree and was recommended to study directly for a doctoral degree
-
-I'm a **PhD** student at the Institute of Information Engineering, Chinese Academy of Sciences
+I graduated with excellent results from my undergraduate degree and was recommended to study directly for a doctoral degree.
+Now, I'm a **PhD** student at the Institute of Information Engineering, Chinese Academy of Sciences.
 # Education
 
 * *2018.9-2022.6* , Wuhan, China
