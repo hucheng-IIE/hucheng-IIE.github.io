@@ -28,9 +28,9 @@ Now, I'm a **PhD** student at the Institute of Information Engineering, Chinese 
 # Publications
 
 ## Conference
-**Hu C**, Cao C, Yuan F, et al. Conformal Event Prediction with Temporal Knowledge Graph ACL 2026 **CCF-A**
+**Hu C**, Cao C, Yuan F, et al. Conformal Event Prediction with Temporal Knowledge Graph, ACL 2026 **CCF-A**
 
-**Hu C**, Yuan F, Cao C, et al. Counterfactual-Augmented Representation Learning based Event Prediction ICME 2025 **CCF-B oral**
+**Hu C**, Yuan F, Cao C, et al. Counterfactual-Augmented Representation Learning based Event Prediction, ICME 2025 **CCF-B oral**
 
 **Hu C**, Yuan F, Liu Y, et al. Malicious Domain Detection with Heterogeneous Graph Propagation Network[C]//International Conference on Wireless Algorithms, Systems, and Applications. Cham: Springer Nature Switzerland, 2022: 545-556. **CCF-C**
 
