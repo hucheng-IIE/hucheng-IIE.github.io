@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing, China"
-title                    : "Cheng Hu / Homepage"
+locale                   : "en-US"
+title                    : "Cheng Hu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "hucheng@iie.ac.cn"
+name                     : &name "Cheng Hu"
+description              : &description "PhD Candidate in Cyberspace Security"
 url                      : https://hucheng-IIE.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hucheng-IIE/hucheng-IIE.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Cheng Hu"
   avatar           : "hc.png"
-  bio              : "hucheng@iie.ac.cn"
-  location         : "Beijing China"
+  bio              : "PhD Candidate, IIE-CAS / UCAS. Expected PhD: June 2027."
+  location         : "Beijing, China"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=Rk5RYYcAAAAJ"
   email            : "hucheng@iie.ac.cn"
   github           : "hucheng-IIE/"
@@ -227,7 +227,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
