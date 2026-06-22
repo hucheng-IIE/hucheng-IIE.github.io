@@ -88,7 +88,7 @@ redirect_from:
         <li>
           <strong>Hu C</strong>, Cao C, Yuan F, et al.
           Semantics-Preserving Temporal Adversarial Graph Contrastive Learning for Event Prediction.
-          <em>ECML-PKDD 2026</em>. <strong>CCF-B</strong>.
+          <em>ECML-PKDD 2026</em>. <strong>CCF-B, Oral</strong>.
         </li>
         <li>
           <strong>Hu C</strong>, Yuan F, Cao C, et al.
@@ -203,7 +203,7 @@ redirect_from:
         <li>
           <strong>Hu C</strong>, Cao C, Yuan F, et al.
           Semantics-Preserving Temporal Adversarial Graph Contrastive Learning for Event Prediction.
-          <em>ECML-PKDD 2026</em>. <strong>CCF-B</strong>.
+          <em>ECML-PKDD 2026</em>. <strong>CCF-B, Oral</strong>.
         </li>
         <li>
           <strong>Hu C</strong>, Yuan F, Cao C, et al.
