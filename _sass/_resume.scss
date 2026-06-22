@@ -96,6 +96,82 @@ body.resume-lang-zh .resume-page .lang-zh {
   margin-bottom: 0.9rem;
 }
 
+.resume-section-heading {
+  align-items: flex-start;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.resume-section-label {
+  color: #2f6f8f;
+  font-size: 0.72rem;
+  font-weight: 700;
+  margin: 0 0 0.25rem;
+  text-transform: uppercase;
+}
+
+.resume-section-heading h2 {
+  margin-bottom: 0.65rem;
+}
+
+.resume-project-link {
+  align-items: center;
+  border-bottom: 1px solid #2f6f8f;
+  color: #1f5c78;
+  display: inline-flex;
+  flex: 0 0 auto;
+  font-size: 0.82rem;
+  font-weight: 700;
+  gap: 0.35rem;
+  line-height: 1.35;
+  padding-bottom: 0.12rem;
+}
+
+.resume-project-link:hover,
+.resume-project-link:focus {
+  color: #17394a;
+  text-decoration: none;
+}
+
+.resume-project-summary {
+  line-height: 1.7;
+  margin: 0 0 0.8rem;
+}
+
+.resume-project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.resume-project-tags span {
+  border-left: 2px solid #5b8f70;
+  color: #365b45;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding-left: 0.42rem;
+}
+
+.resume-project-figure {
+  margin: 0;
+}
+
+.resume-project-figure img {
+  border: 1px solid #d9e3e8;
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.resume-project-figure figcaption {
+  color: #65757d;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  margin-top: 0.45rem;
+}
+
 .resume-timeline {
   display: grid;
   gap: 0.9rem;
@@ -170,5 +246,11 @@ body.resume-lang-zh .resume-page .lang-zh {
 
   .resume-hero h1 {
     font-size: 1.65rem;
+  }
+
+  .resume-section-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.35rem;
   }
 }

@@ -15,19 +15,22 @@ redirect_from:
 <div class="resume-page">
   <div class="lang-en">
     <section class="resume-hero">
-      <p class="resume-kicker">PhD Candidate · Event Prediction · Temporal Knowledge Graphs</p>
+      <p class="resume-kicker">PhD Candidate · Event Forecasting · Temporal Knowledge Graphs · Agentic Reinforcement Learning</p>
       <h1>Cheng Hu</h1>
       <p>
         I am a PhD candidate in Cyberspace Security at the Institute of Information
         Engineering, Chinese Academy of Sciences, and the School of Cyber Security,
-        University of Chinese Academy of Sciences. I am expected to receive my PhD
-        degree in <strong>June 2027</strong>.
+        University of Chinese Academy of Sciences. My research focuses on event forecasting,
+        temporal knowledge graphs, graph representation learning, uncertainty-aware prediction,
+        and agentic reinforcement learning. I am expected to receive my PhD degree in
+        <strong>June 2027</strong>.
       </p>
       <div class="resume-tags">
         <span>Event Prediction</span>
         <span>Temporal Knowledge Graphs</span>
         <span>Uncertainty Quantification</span>
         <span>Graph Representation Learning</span>
+        <span>Agentic Reinforcement Learning</span>
       </div>
     </section>
 
@@ -46,6 +49,32 @@ redirect_from:
           <p>Hubei University, Wuhan, China</p>
         </article>
       </div>
+    </section>
+
+    <section class="resume-section resume-project-section">
+      <div class="resume-section-heading">
+        <div>
+          <p class="resume-section-label">Independent Research Project</p>
+          <h2>Agentic Reinforcement Learning for Event Forecasting</h2>
+        </div>
+        <a class="resume-project-link" href="https://github.com/hucheng-IIE/Agentic-Reinforcement-Learning-for-Event-Forecasting">View Project <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+      </div>
+      <p class="resume-project-summary">
+        An evidence-grounded forecasting framework that treats temporal event prediction as an
+        agentic decision-making problem. A ReAct-style policy gathers historical events, news,
+        relation statistics, and graph evidence before producing a prediction; GRPO then improves
+        tool-use trajectories through outcome and process rewards.
+      </p>
+      <div class="resume-project-tags">
+        <span>ReAct</span>
+        <span>GRPO</span>
+        <span>Evidence-Grounded Forecasting</span>
+        <span>Temporal Knowledge Graphs</span>
+      </div>
+      <figure class="resume-project-figure">
+        <img src="/images/agentic-rl-framework.png" alt="Agentic reinforcement learning framework for event forecasting, covering rollout, tool interaction, reward computation, GRPO updates, and inference.">
+        <figcaption>Agentic RL framework for evidence-grounded event forecasting.</figcaption>
+      </figure>
     </section>
 
     <section class="resume-section">
@@ -107,10 +136,11 @@ redirect_from:
 
   <div class="lang-zh">
     <section class="resume-hero">
-      <p class="resume-kicker">博士研究生 · 事件预测 · 时序知识图谱</p>
+      <p class="resume-kicker">博士研究生 · 事件预测 · 时序知识图谱 · 智能体强化学习</p>
       <h1>胡成</h1>
       <p>
         我目前为中国科学院信息工程研究所、中国科学院大学网络空间安全学院网络空间安全专业博士研究生，
+        研究聚焦于事件预测、时序知识图谱、图表示学习、不确定性量化与智能体强化学习，
         预计于 <strong>2027 年 6 月</strong> 获得博士研究生学位。
       </p>
       <div class="resume-tags">
@@ -118,6 +148,7 @@ redirect_from:
         <span>时序知识图谱</span>
         <span>不确定性量化</span>
         <span>图表示学习</span>
+        <span>智能体强化学习</span>
       </div>
     </section>
 
@@ -136,6 +167,29 @@ redirect_from:
           <p>湖北大学，武汉</p>
         </article>
       </div>
+    </section>
+
+    <section class="resume-section resume-project-section">
+      <div class="resume-section-heading">
+        <div>
+          <p class="resume-section-label">独立研究项目</p>
+          <h2>面向事件预测的智能体强化学习</h2>
+        </div>
+        <a class="resume-project-link" href="https://github.com/hucheng-IIE/Agentic-Reinforcement-Learning-for-Event-Forecasting">查看项目 <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+      </div>
+      <p class="resume-project-summary">
+        一个以证据为基础的事件预测框架：将时序事件预测建模为智能体决策过程。基于 ReAct 的策略在预测前主动检索历史事件、新闻、关系统计与图结构证据；随后通过 GRPO 结合结果奖励和过程奖励，优化工具调用与推理轨迹。
+      </p>
+      <div class="resume-project-tags">
+        <span>ReAct</span>
+        <span>GRPO</span>
+        <span>证据驱动预测</span>
+        <span>时序知识图谱</span>
+      </div>
+      <figure class="resume-project-figure">
+        <img src="/images/agentic-rl-framework.png" alt="面向事件预测的智能体强化学习框架，包含轨迹采样、工具交互、奖励计算、GRPO 更新与推理阶段。">
+        <figcaption>面向证据驱动事件预测的智能体强化学习框架。</figcaption>
+      </figure>
     </section>
 
     <section class="resume-section">
